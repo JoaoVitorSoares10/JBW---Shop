@@ -1,0 +1,273 @@
+{
+    "Tech":[
+        {
+            "id": 1,
+            "title": "Fone de ouvido JBL",
+            "img_url": "https://http2.mlstatic.com/D_NQ_NP_916914-MLA46540739257_062021-O.webp",
+            "desc": "on-ear sem fio JBL Tune 510BT preto",
+            "price": 250.5,
+            "quantity": "0"
+        },
+        {
+            "id": 2,
+            "title": "Smartwatch IWO IWO",
+            "img_url": "https://http2.mlstatic.com/D_NQ_NP_941736-MLA44923874781_022021-O.webp",
+            "desc": "Lite IWO 8 Lite Series 4 1.54\" caixa black, pulseira black W34",
+            "price": 97.5,
+            "quantity": "0"
+        },
+        {
+            "id": 3,
+            "title": "Mouse Estone",
+            "img_url": "https://http2.mlstatic.com/D_NQ_NP_668073-MLA32869908543_112019-O.webp",
+            "desc": "Mouse Gamer Estone X7 black",
+            "price": 84.92,
+            "quantity": "0"
+        },
+        {
+            "id": 4,
+            "title": "Monitor gamer AOC",
+            "img_url": "https://http2.mlstatic.com/D_NQ_NP_614140-MLA47598494862_092021-O.webp",
+            "desc": "Monitor gamer AOC G2 24G2 led 24\" preto e vermelho 100V/240V",
+            "price": 1492,
+            "quantity": "0"
+        },
+        {
+            "id": 5,
+            "title": "teclado Knup",
+            "img_url": "https://http2.mlstatic.com/D_NQ_NP_846237-MLA42717428683_072020-O.webp",
+            "desc": "KP-2013 QWERTY português Brasil cor preto",
+            "price": 42,
+            "quantity": "0"
+        },
+        {
+            "id": 6,
+            "title": "Suporte controle",
+            "img_url": "https://http2.mlstatic.com/D_NQ_NP_790166-MLB45772472330_042021-O.webp",
+            "desc": "Para Controles De Ps4 / Xbox One / Pc Gammer",
+            "price": 35,
+            "quantity": "0"
+        },
+        {
+            "id": 7,
+            "title": "Suport Notebook",
+            "img_url": "https://http2.mlstatic.com/D_NQ_NP_914402-MLB43072794101_082020-W.webp",
+            "desc": "Suporta Notebook ou Tablet",
+            "price": 35.99,
+            "quantity": "0"       
+        }
+    ],
+    "Books":[
+        {
+            "id": 8,
+            "title": "Extraordinário",
+            "img_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQNbzgBrT7S_s9m64Ny2oMNdeo2YYlHGIYQmvYOPRj95Xe_zeKsCjkucevifc-k128pOtuLqBQgG1kGAkA0xU09KNotoTIuopZyibdOvQHX4D6WLaXlqPMC_A&usqp=CAE",
+            "desc": "Capa comum – Edição padrão, 31 janeiro 2013",
+            "price": 24.9,
+            "quantity": "0"
+        },
+        {
+            "id": 9,
+            "title": "Livro - A Bela e a Fera",
+            "img_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSAilfZkD467j0F7apHiR_dDVNuUHlbAipXyYEAgh8YBhd3tYylfnTFGvY-ugPxosqvZ_Nr2xchz9SP7TV6SrAAiwzicGiqjvJi9YxoyCX2&usqp=CAE",
+            "desc": "Perdida em um livro: Uma encantadora história original",
+            "price": 9.69,
+            "quantity": "0"
+        },
+        {
+            "id": 10,
+            "title": "A Cinco Passos de Você",
+            "img_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQFGrYjgchjgtmdr8_67PkLRO2BAcvkNS8Rhw860yJAJW_6HS9Rs9r8itwr9_2EYKfMxV_uKHqX327lD2U00hGTT3nLS1kqfa63HrzcqmDw9V1ILzfJyNdyJg&usqp=CAE",
+            "desc": "Mikki Daughtry, Rachael Lippincott e Tobias Iaconis",
+            "price": 31.9,
+            "quantity": "0"
+        },
+        {
+            "id": 11,
+            "title": "A culpa é das estrelas",
+            "img_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQUeizuy0FBKypleR_klyr5dfFmv7yTXGIcVZhaYLQTtVOhXnVOAxuPTNtQymxDqAElIiebURLVU9f6FL1iUIkTIh92OurpoI1-X7aKd6nH&usqp=CAE",
+            "desc": "Autor: John Green, Editora: INTRÍNSECA",
+            "price": 39.92,
+            "quantity": "0"
+        },
+        {
+            "id": 12,
+            "title": "As obras revolucionarias de George Orwell",
+            "img_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQtqrHljf6zfKCVzebSutOdbUYcoURRp92nprBHtmTh9EGOZcnRcHVbNMN-vKf7qD_QNmjPWIe7U9WAYLqmr66IWMJ2hb5Ks2ui_dWYCvBfanIAR8nweaxy1g&usqp=CAE",
+            "desc": "Livro Box com 3 livros",
+            "price": 39.9,
+            "quantity": "0"
+        },
+        {
+            "id": 13,
+            "title": "Enquanto eu não te Encontro",
+            "img_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRWNXjzV-dGQoFVko4GSGPU1yl6QMWB4BcwwjomdoaBHVPYCvlX-yIIXE3us36VerII90N1wr1dB1NeqkhdZL7k2HwV-4LrrusxMYkIOuU&usqp=CAE",
+            "desc": "Rhuas - Seguinte",
+            "price": 46,
+            "quantity": "0"
+        },
+        {
+            "id": 14,
+            "title": "A Seleção ",
+            "img_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTu7to2iUarv3KQJCLqXQ4lSYBz0vcuy_4FPddl19yXT0nEi5BJOxl3U0BW-TTs_dLfAahd0Zy0aCCnmfVHLfqaRIssiclhRHQRCjUZRZoE&usqp=CAE",
+            "desc": "Kiera Cass, Seguinte",
+            "price": 23,
+            "quantity": "0"       
+        }
+    ],
+    "Clothes":[
+        {
+            "id": 15,
+            "title": "calça punk",
+            "img_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSVsQU1hbkUBqSCEfW9IddjRN-dQ4hFk4DMchz_ipsdDnIJt90k6YkVWol786Kf6r-FPahflzt6XYs2dHlX9s63j0biU_UXdHXBHQLwGsk&usqp=CAE",
+            "desc": "Calça com cintura elastica, bolsos e estampas de lua e sol",
+            "price": 89.90,
+            "quantity": "0"
+        },
+        {
+            "id": 16,
+            "title": "Blazer Esporte Fino",
+            "img_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSUUGiq-vxjZ-iE7llpZshUwJ058n-y6UbbDfFW0JLFCJJYJup9Nrjr3W2-1GDkKVgOhqe74B-tKLO44rfRD3Qj-XAXRFTC5I9Nek7x29thDOk6RrqZbxFtQA&usqp=CAE",
+            "desc": "Sarja Remo Fenut - Azul",
+            "price": 299.99,
+            "quantity": "0"
+        },
+        {
+            "id": 17,
+            "title": "Calça Feminina Mom Jeans",
+            "img_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRPCDu5Z54WJmIqXkmUt8JjquiZCOA8dVZ-JwrU0nUzF7HRurz5BCZo0iCKb5tPJ_lqiV38ONVer75bIkzwJRdB1BmAlnT2emnFLsI0Cc4&usqp=CAE",
+            "desc": "Mom Cintura Super Alta Escura e Clara",
+            "price": 120,
+            "quantity": "0"
+        },
+        {
+            "id": 18,
+            "title": "CAMISETA SELFIE OFF WHITE",
+            "img_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR2mlYVHFdLNBIsYUG2nfWV2j17Z-ZD_eoFdAYzNSZdZ4MYj6X2Re75QLIujbtZGy0ymNopGvVGHFIx_VI2ipumcchf_e8gRkVFKpbdoRrgIu9mZR4vYeWB&usqp=CAE",
+            "desc": "Camiseta Off White 100% algodão",
+            "price": 93.3,
+            "quantity": "0"
+        },
+        {
+            "id": 19,
+            "title": "Camiseta Tomb of Zelda",
+            "img_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSpusNm_p8X_Y6pqw6MazuVtT1gd1OqUlJ0mbulkeBomq9mRnd7DgMajyoHstkI2K6_q5f0O35qmiTgB_-twvr1vOFkmO8wbQJBWebhZxrnLmx-Wa92TNPbCw&usqp=CAE",
+            "desc": "Loja Nerd e Geek - Presentes Criativos",
+            "price": 59,
+            "quantity": "0"
+        },
+        {
+            "id": 20,
+            "title": "Tênis Casual Masculino",
+            "img_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSUg0fJq9oPe9XX3SuXlttARCw7Or-tuDxjW1eSlNhGpWL_3vo4u1fJLg1Ndzh2pmCbNiIjeUoyLKZ4c-pyeCBp3zYWLiCJSQ&usqp=CAE",
+            "desc": "Com Recortes e Listras Laterais - Preto",
+            "price": 74.9,
+            "quantity": "0"
+        },
+        {
+            "id": 21,
+            "title": "Sandália Feminina Milano Cobre",
+            "img_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT5h_5HBSTqQfuLETvUU-fqvnP8fcpdLh--ii2fA-Z3TPto9zfeoOKrYdMq3snpG05GKSOt9DNAAQW33QXj2q5ZQS0QZdgPOnCjF2I07mqib3VUi5dQE2N6_g&usqp=CAE",
+            "desc": "Sandália com salto alto lego tira sobre os dedos e com ajuste",
+            "price": 59.9,
+            "quantity": "0"
+        },
+        {
+            "id": 22,
+            "title": "Boné Nike Sportswear Heritage",
+            "img_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRVQboUoRFrhUyM3l7PgeXvvP1BPUQpWWUJy1ygk2GmtwgprPPDpO3Wq9nDenx2F7ghMFGU9vPhxFQC4sMX6TBYypBRx1iW4w8RNrAa_tJF&usqp=CAE",
+            "desc": "Design clássico de seis painéis com estrutura antissuor.",
+            "price": 109.8,
+            "quantity": "0"       
+        }
+    ],
+    "Home":[
+        {
+            "id": 23,
+            "title": "Cortina Blackout",
+            "img_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTlinNfCWY-8R3Yv39sXcYxVMmfdhXaMExkooNGnJltIAKIMB468a6lCcr5zxSZ4EkbJm7g_3B5toamkDdOSRQamF2ezsLTLj7w5MnY7Rw&usqp=CAE",
+            "desc": "PVC 2,20 m x 1,30 m - Preta",
+            "price": 34.9,
+            "quantity": "0"
+        },
+        {
+            "id": 24,
+            "title": "Travesseiro Altenburg",
+            "img_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRTWVJtwxaKbaxv1J8O7CX_SOoJrn1CNVYbc4pYYEZV7x9Z4Dp-8aMQNCz3ejMEPqdNjkHKuQ9xrl0WET5dbQQpQFIqbsHztTw-4imAU3TexzYfu6FfUkr2&usqp=CAE",
+            "desc": "Travesseiro 250 Fios Maquinetado Suporte Firme",
+            "price": 120.5,
+            "quantity": "0"
+        },
+        {
+            "id": 25,
+            "title": "Lençol Solteiro",
+            "img_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTVBgfdivapEDe4J1YzDU02qIEW3PCTUmo5G8NlchalC26reey079Tsi1138LM9dRkh0Zkf84H1XszKI9ZM_fGUe6VN_-Ef9x6D7r7rjoo&usqp=CAE",
+            "desc": "Avulso com elástico Dog Winter Vestcasa",
+            "price": 29.9,
+            "quantity": "0"
+        },
+        {
+            "id": 26,
+            "title": "Kit com 11 peças utensílios de cozinha",
+            "img_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSftG01Wh0qqm-4GgUN7UAWhmliCDvh_vt_SjJeUy_Fmv2Mtge-TBkxDpqfMgubUuKYgl2_uf7QE6xYQPYaY-H-uOYQUbMFZ7AQdzhsBR2lVXffY5YpH4rx&usqp=CAE",
+            "desc": "silicone e cabo de madeira resistente à altas temperaturas",
+            "price": 143.84,
+            "quantity": "0"
+        },
+        {
+            "id": 27,
+            "title": "Conjunto 4 Panelas ",
+            "img_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQE3w09dUnuxYCeUX83uJURBpTxIBPRD8chniroalOoNdYLF2-aRcu1Kmc1i9rQ0m-0yD7uwtIRNWHhtBDS0Y7bbhZg33n9GGKvs28wBe5RZHfa-ULqhcNw&usqp=CAE",
+            "desc": "Antiaderente Eirilar Copacabana Vermelho",
+            "price": 99.9,
+            "quantity": "0"
+        },
+        {
+            "id": 28,
+            "title": "Jogo de Taças para Cerveja",
+            "img_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSp6dGi_UtvsycqPGG07OVLPVwi1lRjr8Kg500CiIAOIWSEJCpfApQuEUo1xyjs73U2-Xue58hAMBRET1xtxsdNNau9vd-rAiE6Ubw1c9yj08fzJkZkUwdVSdU&usqp=CAE",
+            "desc": "Floripa Nadir 300ml com 6 peças",
+            "price": 41.4,
+            "quantity": "0"
+        },
+        {
+            "id": 29,
+            "title": "Quadro Decorativo",
+            "img_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRn88LUOYYNe7cD9wQ9nnsDI4dJMJs0omBvnHUDWvgRMxGQMa_EJM39ecMQZoXocohF03nT0GBFzNDYyci-z0uWo-LB-2lBabAti2O_E3XPz1ct70wYvD4R&usqp=CAE",
+            "desc": "Com Moldura Abstrato Tons de Bege e Verde",
+            "price": 39.99,
+            "quantity": "0"
+        },
+        {
+            "id": 30,
+            "title": "Vaso de cerâmica nordic",
+            "img_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSWg2Nrpb1qj1S69MonoiukQiedhLyHHgRXmUOE_btJpaVE56z8e-d2446V3KsXKvNXkMv2dbBp63azYl6GjsRdftG87SUQKkF_cTd2V1o&usqp=CAE",
+            "desc": "vasos brancos para flores",
+            "price": 102.15,
+            "quantity": "0"       
+        }
+    ],
+    "Coupons": [
+        {
+            "id": 1,
+            "cod": "MAIS5",
+            "name": "Cupons de 5% de desconto em compras acima de R$ 200,00",
+            "value": 200,
+            "percentage": 5
+        },
+        {
+            "id": 2,
+            "cod": "QUERO7",
+            "name": "Cupons de 7% de desconto em compras acima de R$ 500,00",
+            "value": 500,
+            "percentage": 7
+        },
+        {
+            "id": 3,
+            "cod": "SUPER10",
+            "name": "Cupons de 10% de desconto em compras acima de R$ 1000,00",
+            "value": 1000,
+            "percentage": 10
+        }
+    ]
+}
