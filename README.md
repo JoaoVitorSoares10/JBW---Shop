@@ -11,7 +11,11 @@
 </p>
  <br>
  <img src="./src/gifs/pageGif1.gif" title="Home page Gif" alt="Home page Gif"/>
+ <br>
+ <br>
  <img src="./src/gifs/pageGif2.gif" title="Open modal Gif" alt="Open modal Gif"/>
+ <br>
+ <br>
  <img src="./src/gifs/pageGif3.gif" title="Shopping car Gif" alt="Shopping car Gif"/>
 </div>
 
