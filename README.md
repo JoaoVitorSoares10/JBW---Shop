@@ -1,16 +1,19 @@
-# Marvel Characters
-
-## Project Description
-
-The JBW is a E-commerce project of sale of various products.
-
+<div align="center">
+ <h1>JBW - Shop</h1>
+ <h2>Project Description</h2>
+ <p>The JBW is a E-commerce project of sale of various products.</p>
 <p>
  <a href="#Features">Features</a> •
  <a href="#Requirements">Requirements</a> • 
- <a href="#🎲 Running the Application">Running the Application</a> • 
- <a href="#🛠 Technologies">Technologies</a> • 
+ <a href="#Running the Application">Running the Application</a> • 
+ <a href="#Technologies">Technologies</a> • 
  <a href="#Author">Author</a>
 </p>
+ <br>
+ <img src="./src/gifs/pageGif1.gif" title="Home page Gif" alt="Home page Gif"/>
+ <img src="./src/gifs/pageGif2.gif" title="Open modal Gif" alt="Open modal Gif"/>
+ <img src="./src/gifs/pageGif3.gif" title="Shopping car Gif" alt="Shopping car Gif"/>
+</div>
 
 ### Features
 
